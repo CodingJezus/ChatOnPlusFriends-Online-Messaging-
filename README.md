@@ -1,9 +1,8 @@
 
 The ChatOnPlusFriends project allows users to communicate via instant messaging in real-time. Built with **Vite**, powered by **Firebase** for authentication and data storage, this project serves as a lightweight, scalable chat application.
 
-Project Overview:
+Overview:
 This project is a personal venture aimed at creating an online messaging system where users can sign in with Google, send messages in real-time, and enjoy a responsive and user-friendly interface.
-This uses both 
 
 Features:
 - **User Authentication**: Sign in using Google accounts (via Firebase Authentication).
