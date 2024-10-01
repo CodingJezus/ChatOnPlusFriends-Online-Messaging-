@@ -78,6 +78,7 @@ Key Components:
 `App.jsx`-This is the main component that handles routing, user state, and renders the chat interface. It interacts with Firebase for authentication and real-time messaging.
 
 `firebase.js`-Handles the Firebase initialization and exports Firebase services used throughout the app. The key features include Firebase Authentication (for Google login) and Firestore for storing messages.
+
 Firebase setup:
 ```javascript
 import { initializeApp } from "firebase/app";
@@ -99,6 +100,7 @@ export { auth, app };
 ```
 
 Styling (`App.css` & `index.css`)-The app uses CSS for styling the components, including the layout, chat window, message input, and buttons. The design follows a simple and modern look, ensuring good usability.
+
 Styles:
 ```css
 .app-container {
